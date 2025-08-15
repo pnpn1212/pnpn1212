@@ -9,14 +9,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 <table align="center">
   <tr>
     <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="128">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="React" />
       <br />Python
     </td>
