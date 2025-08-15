@@ -12,10 +12,13 @@ I'm a passionate developer dedicated to building innovative solutions and contin
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="React" />
       <br />Python
     </td>
-    </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="NodeJS" />
+      <br />React
     </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
