@@ -25,7 +25,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
     </td>
-    <tr>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
       <br />VSCode
@@ -41,7 +40,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
       <br />Go
-    </td>
     </td>
   </tr>
 </table>
