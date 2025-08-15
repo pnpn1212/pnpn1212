@@ -54,8 +54,8 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 </p>
 
 <p align="center">
-  <img height="180" width="128" src="https://github-readme-streak-stats.herokuapp.com/?user=pnpn1212&theme=tokyonight" alt="GitHub Streak"/>
-  <img height="180" width="128" src="https://github-readme-stats.vercel.app/api?username=pnpn1212&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pnpn1212&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pnpn1212&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 📫 Let's Connect
