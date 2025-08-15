@@ -62,7 +62,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnpn1212&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="center" width="128">
   <img align="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pnpn1212&repo=Binary_SC&theme=tokyonight" />
 </p>
 
