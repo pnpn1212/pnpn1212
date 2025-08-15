@@ -28,42 +28,8 @@ I'm a passionate developer dedicated to building innovative solutions and contin
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
       <br />NodeJS
     </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br />Express
-    </td>
   </tr>
   <tr>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br />HTML5
-    </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br />Bootstrap
-    </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jQuery" />
-      <br />jQuery
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-      <br />PHP
-    </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VSCode" />
       <br />VSCode
@@ -80,9 +46,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
       <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
       <br />Go
     </td>
-    <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-      <br />Laravel
     </td>
   </tr>
 </table>
