@@ -39,7 +39,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
       <br />Go
-    <td align="left" width="128">
+    <td align="center" width="128">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="NodeJS" />
       <br />Nginx
     </td>
@@ -62,7 +62,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnpn1212&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center" width="128">
+<p align="left" width="128">
   <img align="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pnpn1212&repo=Binary_SC&theme=tokyonight" />
 </p>
 
