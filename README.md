@@ -25,10 +25,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
       <br />VSCode
     </td>
     <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br />GitHub
-    </td>
-    <td align="center" width="128">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="GitHub" />
       <br />Docker
     </td>
