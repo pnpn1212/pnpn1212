@@ -39,7 +39,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
       <br />Go
-    <td align="" width="128">
+    <td align="left" width="128">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="NodeJS" />
       <br />Nginx
     </td>
