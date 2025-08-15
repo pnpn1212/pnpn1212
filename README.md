@@ -63,8 +63,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 </p>
 
 <p align="center">
-  <img align="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pnpn1212&repo=VNBnode-Guides" />
-  <img align="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pnpn1212&repo=Binary_SC" />
+  <img align="180" src="https://github-readme-stats.vercel.app/api/pin/?username=pnpn1212&repo=Binary_SC&theme=tokyonight" />
 </p>
 
 ## 📫 Let's Connect
