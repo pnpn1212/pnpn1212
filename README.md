@@ -2,7 +2,7 @@
 
 I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">⚡ My Tech Stack</h2>
 
 <br />
 
